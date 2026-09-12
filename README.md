@@ -1,3 +1,37 @@
-# paris
-My first github
-Lipids and proteins are the staple ingredients of membranes, although carbohydrates are also important. The most abundant lipids in most membranes are phospholipids. Their ability to form membranes is inherent in their molecular structure. A phospholipid is an amphipathic molecule, meaning it has both a hydrophilic region and a hydrophobic. A phospholipid bilayer can exist as a stable boundary between two aqueous compartments because the molecular arrangement shelters the hydrophobic tails of the phospholipids from water while exposing the hydrophilic heads to water. Like membrane lipids, most membrane proteins are amphipathic. Such proteins can reside in the phospholipid bilayer with their hydrophilic regions protruding. This molecular orientation maximizes contact of hydrophilic regions of a protein with water in the cytosol and extracellular fluid, while providing their hydrophobic parts with a nonaqueous environment. The proteins are not randomly distributed in the membrane, however. Groups of proteins are often associated in long-lasting, specialized patches, where they carry out common functions. 
+Paris Website
+
+姓 　 　 名：鄒文雄 老師實驗室
+英 文 姓 名：Wen-Shyong Tzou
+研 究 專 長：蛋白質結構電腦模擬、生物資訊
+個人實驗室：Lab video
+實驗室影片：Covid19棘壯蛋白列排比
+電 子 信 箱：paristzou@gmail.com
+研究室位置：綜合二館302-A研究室
+研究室電話：2462-2192 ext. 5522
+ 
+ 
+ 
+主要授課課程：
+程式設計與資料處理
+人工智慧概論
+使用Linux指令分析基因體資訊
+使用R指令分析基因體資訊
+生成式AI與蛋白質設計
+深度學習在基因體學的應用
+ 
+學經歷：
+學士：交通大學電子物理系 1988
+碩士：清華大學生命科學所 1990
+博士：國防醫學院生命科學所 1998
+博士後研究：中央研究院分子生物研究所 1999
+副研究員：法國科學研究國家中心生物物理化學研究所 2000
+經理：台灣基因科技公司 2001
+助理教授：高雄醫學大學 生物科技系 2002
+助理教授：臺灣海洋大學生物科技所 2004
+副教授：臺灣海洋大學 生物科技所 2007
+教授：臺灣海洋大學 生命科學暨生物科技學系 2014
+教授：美國維吉尼亞大學訪問教授 2016
+ 
+研究項目簡介： 
+利用機器學習與可解釋人工智慧發掘癌症的關鍵基因
+利用RFdiffusion設計生物醫學相關蛋白質
